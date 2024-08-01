@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pill/static/css/main.78451e62.css",
+    "main.js": "/pill/static/js/main.9c1f2891.js",
+    "static/js/453.4996f342.chunk.js": "/pill/static/js/453.4996f342.chunk.js",
+    "static/media/auth_land_image.jpg": "/pill/static/media/auth_land_image.9bf942098259d1c2450a.jpg",
+    "index.html": "/pill/index.html",
+    "main.78451e62.css.map": "/pill/static/css/main.78451e62.css.map",
+    "main.9c1f2891.js.map": "/pill/static/js/main.9c1f2891.js.map",
+    "453.4996f342.chunk.js.map": "/pill/static/js/453.4996f342.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78451e62.css",
+    "static/js/main.9c1f2891.js"
+  ]
+}
